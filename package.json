@@ -1,0 +1,15 @@
+{
+  "name": "kodlib-cli",
+  "version": "1.0.0",
+  "description": "Nodejs cli example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "nodejs"
+  ],
+  "author": "kodcanlisi",
+  "license": "ISC"
+}

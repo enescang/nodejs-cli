@@ -11,5 +11,8 @@
     "nodejs"
   ],
   "author": "kodcanlisi",
-  "license": "ISC"
+  "license": "ISC",
+  "bin":{
+    "kodlib":"./app/index.js"
+  }
 }
